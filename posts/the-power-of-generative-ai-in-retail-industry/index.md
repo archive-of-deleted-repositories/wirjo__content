@@ -1,3 +1,11 @@
+---
+title: 'The Power of Generative AI in Retail Industry'
+description: The Power of Generative AI in Retail Industry 
+authorGithubAlias: eric80116, raywang1021
+authorName: Eric Liou, Ray Wang
+date: 2023-06-27
+---
+
 # From Data to Dollars: The Power of Generative AI in Retail Customer Engagement
 
 ## Introduction: Stable Diffusion in pan-retail industry 
@@ -62,7 +70,7 @@ Take an advertisement of windbreaker as example, we will need the materials like
 ![Picture4](images/Picture4.png)
 * Then easily assemble the materials to an advertisement
 
-![Picture5](images/Picture5.gif)
+![Picture6](images/Picture6.gif)
 
 
 ## Fine-tune the LoRA model with your own images data 
